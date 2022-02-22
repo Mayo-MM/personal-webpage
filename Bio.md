@@ -1,1 +1,1 @@
-# I'm an environmentalist, who happens to be a fullstack developer
+I'm an environmentalist, who happens to be a fullstack developer
