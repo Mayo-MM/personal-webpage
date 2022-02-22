@@ -2,4 +2,4 @@
 
 I'm an environmentalist, who happens to be a fullstack developer
 
-[link](./assets/images/IMG_1267.jpg
+[link](IMG_1267.jpg)
