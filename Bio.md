@@ -1,5 +1,5 @@
 # Mario Antonio Mendoza Barrientos
 
-![image](./assets/images/test.jpg)
+I'm a mexican environmentalist and fullstack developer, currently living in Guadalajara.
 
-I'm an environmentalist, who happens to be a fullstack developer
+![image](./assets/images/IMG_1267.JPG)
